@@ -1,6 +1,98 @@
-# ML-From-Scratch
-* This repository is dedicated to learning and implementing machine learning models with a strong focus on understanding the underlying concepts. It covers model theory, mathematical intuition, and hands-on implementation using Python. The goal is to bridge the gap between theory and practice while following clean coding and reproducible ML workflows.
-* An experimental playground for building, training, and evaluating machine learning models. Includes supervised, unsupervised, and basic deep learning techniques with clear explanations and practical examples.
-* A comprehensive collection of machine learning algorithms implemented from scratch using Python. This repository focuses on understanding core ML concepts, mathematical intuition, and step-by-step model construction without relying on high-level libraries.
-* End-to-end machine learning projects covering data preprocessing, feature engineering, model building, evaluation, and optimization. Designed to reflect real-world ML workflows used in industry.
-* A curated collection of popular machine learning algorithms with simple explanations, visualizations, and Python implementations. Ideal for learners and interview preparation and Demonstrates the complete machine learning pipeline—from raw data exploration to trained and evaluated models. Focuses on clean code, reproducibility, and best practices.
+# 🤖 ML From Scratch
+
+🚀 **ML From Scratch** is a comprehensive machine learning repository
+focused on **understanding, explaining, and implementing machine
+learning algorithms from the ground up** using Python.
+
+Instead of relying heavily on high-level libraries, this project
+emphasizes **core concepts, mathematical intuition, and clean
+implementations** to build a strong foundation in machine learning.
+
+------------------------------------------------------------------------
+
+## 🎯 Goals of This Repository
+
+✔️ Build machine learning models from scratch\
+✔️ Understand how algorithms work internally\
+✔️ Connect mathematics with real-world code\
+✔️ Follow clean, modular, and reusable coding practices\
+✔️ Create a strong, portfolio-ready ML project for resumes and
+interviews
+
+------------------------------------------------------------------------
+
+## 🧠 What You'll Learn
+
+📌 How ML algorithms work step by step\
+📌 The math behind each model (loss functions, gradients, updates)\
+📌 Data preprocessing and feature handling\
+📌 Model evaluation and performance metrics\
+📌 Writing clean and readable ML code\
+📌 End-to-end ML workflows
+
+------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+    ML-From-Scratch/
+    │
+    ├── notebooks/      # 📒 Step-by-step explanations & experiments
+    ├── models/         # 🧠 Core ML model implementations
+    ├── utils/          # 🔧 Helper functions & evaluation metrics
+    ├── datasets/       # 📊 Small datasets or dataset references
+    ├── requirements.txt
+    └── README.md
+
+------------------------------------------------------------------------
+
+## 📘 Most Algorithms Implemented (and Planned) from Foundational Books
+
+------------------------------------------------------------------------
+
+## 🛠️ Technologies Used
+
+-   🐍 Python
+-   🔢 NumPy
+-   📊 Pandas
+-   📈 Matplotlib
+-   🧪 Jupyter Notebook
+
+------------------------------------------------------------------------
+
+## ⚙️ Installation & Usage
+
+``` bash
+git clone https://github.com/alihaghayeghi/ML-From-Scratch.git
+cd ML-From-Scratch
+pip install -r requirements.txt
+```
+
+------------------------------------------------------------------------
+
+## 🌟 Why This Project Is Valuable
+
+🔥 Strengthens machine learning fundamentals\
+🔥 Prepares for ML and data science interviews\
+🔥 Demonstrates deep understanding beyond libraries\
+🔥 Showcases clean code and problem-solving skills
+
+------------------------------------------------------------------------
+
+## 🤝 Contributions
+
+Contributions are welcome! Feel free to fork the repo and submit a pull
+request 🚀
+
+------------------------------------------------------------------------
+
+## ⭐ Support
+
+If you find this project helpful, consider giving it a ⭐
+
+------------------------------------------------------------------------
+
+## 📌 Resume Description
+
+**ML From Scratch** --- Implemented core machine learning algorithms
+from scratch in Python with a focus on mathematical intuition, clean
+architecture, and end-to-end ML workflows.
