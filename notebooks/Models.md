@@ -1,5 +1,7 @@
 # Comprehensive ML/DL Model Taxonomy from Foundational Books
 
+here is some of the models and their basic description that Planned for implementation in this Repo
+
 ## I. SUPERVISED LEARNING
 
 ### A. REGRESSION (Predict Continuous Values)
